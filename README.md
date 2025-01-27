@@ -1,10 +1,16 @@
-# yanntex.github.io
+---
+layout: home
+title: Yannis Texier
+---
+
 # Behavioral Economist
 
-
 ## Education
-- MRes, Analysis and Economic Policy|Paris School of Economics (2025)
-- B.S, Quantitative Economics|Paris 1 (2020)
+
+| Degree                       | Institution                      | Year  |
+|------------------------------|----------------------------------|-------|
+| MRes, Analysis and Economic Policy | Paris School of Economics         | 2025  |
+| B.S, Quantitative Economics  | Paris 1                           | 2020  |
 
 ## Work Experience
 ## Research Assitant @ INSERM (2024)
