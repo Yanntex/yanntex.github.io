@@ -1,27 +1,21 @@
-# yanntex.github.io
----
-layout: home
-title: Yannis Texier
----
+<!-- # yanntex.github.io -->
 
-# Behavioral Economist
-
-## Education
+# Education
 
 | Degree                       | Institution                      | Year  |
 |------------------------------|----------------------------------|-------|
 | MRes, Analysis and Economic Policy | Paris School of Economics         | 2025  |
 | B.S, Quantitative Economics  | Paris 1                           | 2020  |
 
-## Work Experience
+# Work Experience
 ## Research Assitant @ INSERM (2024)
 - Developed two videogames that gamifies cognitive task and will be studied in an FMRi and TFUs studies
 - Established new paradigms to study decision-making and designed games around it.
 
 
-## Projects
+# Projects
 
-# Gamifying Decision-Making Under Uncertainty
+## Gamifying Decision-Making Under Uncertainty
 
 ### Overview
 I developed a game under the supervision and collaboration with [Nils Kolling](https://sites.google.com/view/ecc-team/home). The goal is to gamify the scientific study of decision-making. Current paradigms often use lotteries to study decision-making, but these fail to reflect the ecological settings in which humans evolve. Moreover, they do not allow the study of some cognitive properties that may emerge with more complex decisions.
@@ -48,7 +42,7 @@ The game has been developed using **Unity** and **C#**.
 
 ---
 
-# Gamifying Decision-Making: Motivational Persistence Under Threat
+## Gamifying Decision-Making: Motivational Persistence Under Threat
 ### Overview
 I am developing this game in collaboration with **Tristan White** and under the supervision of [Nils Kolling](https://sites.google.com/view/ecc-team/home). The objective is to gamify the scientific study of decision-making, focusing on **motivational persistence under threat**.
 
@@ -76,7 +70,7 @@ Similar to the previous project, current paradigms use lotteries to study decisi
 
 ---
 
-# Developing New Models for the Foundations of Decision-Making
+## Developing New Models for the Foundations of Decision-Making
 
 ### Overview
 I am working on a new framework for decision-making under the supervision of [Raphael Douady](https://raphaeldouady.com). This project is a **work in progress**.
