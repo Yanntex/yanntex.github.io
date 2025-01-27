@@ -1,5 +1,6 @@
 title Yannis Texier
 logo : /pic.jpg
+description: Behavioral Economist
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
