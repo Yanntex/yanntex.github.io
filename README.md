@@ -18,7 +18,7 @@ Below, you’ll find a portfolio that summarizes my work. My work highlights new
 
 # Work Experience
 ## Research Assitant @ INSERM (2024)
-- Developed two videogames that gamifies cognitive task and will be studied in an FMRi and TFUs studies
+- Developed two videogames that gamify cognitive task and will be studied in an FMRi and TFUs studies
 - Established new paradigms to study decision-making and designed games around it.
 
 
@@ -26,7 +26,7 @@ Below, you’ll find a portfolio that summarizes my work. My work highlights new
 
 ## Behavioral Strategy for Players In-Game Expenditures
 
-In this [sample of work](https://drive.google.com/file/d/1EB9RTNsNvzpCg_jEJwtXzK-2WKRrBWy6/view?usp=sharing) I used data from a survey on Animal Crossing Players. I use it as a generic data for mobile game and set up strategies to increase firms's profit.
+In this [sample of work](https://drive.google.com/file/d/1qaYEVrE2PqHZptQq3Z6K0_sFNRF5Cox4/view?usp=sharing) I used data from a survey on Animal Crossing Players. I use it as a generic data for mobile game and set up strategies to increase firms's profit.
 
 The Data Analysis was done with **Python**
 
