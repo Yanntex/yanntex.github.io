@@ -1,11 +1,13 @@
 <!-- # yanntex.github.io -->
 
 # Presentation
-Hi, I am TEXIER Yannis. I am a graduate from Paris School of Economics (ENS Ulm & Paris 1 Panthéon-Sorbonne). I am interested in decision-making and my research interests spans in Economics, Psycology, Cognitive Neuroscience, Mathematics and Machine Learning.
-My research is driven by real-life applications for businesses or daily life decisions. 
-The knowledge I derived had been used for funny sports I practiced as Thai Boxing, Free Diving and, Ultra Marathon. And, it has been used to set up strategies in content creation.
 
-Regarding my work (summarized below), I’ve mainly gamified some decision-making tasks.
+Hi, I’m Yannis Texier.  
+I am a graduate of the Paris School of Economics (ENS Ulm & Paris 1 Panthéon-Sorbonne), with a deep passion for decision-making and interdisciplinary research. My interests span across Economics, Psychology, Cognitive Neuroscience, Mathematics, and Machine Learning.  
+
+My enthusiasm for research stems from a desire to create real-life applications, whether in business or in everyday decision-making. I have successfully translated theoretical knowledge into practical solutions in various environments, including sports such as Thai boxing, free diving, and ultramarathons, as well as in business contexts like content creation.  
+
+Below, you’ll find a portfolio that summarizes my work
 
 # Education
 
