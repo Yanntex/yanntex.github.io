@@ -1,6 +1,6 @@
 <!-- # yanntex.github.io -->
 
-#
+#Presentation
 Hi, nice to meet you, I am TEXIER Yannis. I am a graduate from Paris School of Economics (ENS Ulm & Paris 1 Panthéon-Sorbonne). I am interested in decision-making and my research interests spans in Economics, Psycology, Cognitive Neuroscience, Mathematics and Machine Learning. My research is driven by real-life applications for businesses or daily life decisions. 
 The knowledge I derived had been used for funny sports I practiced as Thai Boxing, Free Diving and, Ultra Marathon. And, it has been used to set up strategies in content creation.
 
