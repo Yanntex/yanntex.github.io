@@ -11,7 +11,7 @@ Regarding my work (summarized below), I’ve mainly gamified some decision-makin
 | Degree                       | Institution                      | Year  |
 |------------------------------|----------------------------------|-------|
 | MRes, Analysis and Economic Policy | Paris School of Economics         | 2025  |
-| B.S, Quantitative Economics  | Paris 1                           | 2020  |
+| B.S, Quantitative Economics  | Paris 1                           | 2021  |
 
 # Work Experience
 ## Research Assitant @ INSERM (2024)
