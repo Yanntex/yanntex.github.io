@@ -1,7 +1,7 @@
 <!-- # yanntex.github.io -->
 
 # Presentation
-Hi, nice to meet you, I am TEXIER Yannis. I am a graduate from Paris School of Economics (ENS Ulm & Paris 1 Panthéon-Sorbonne). I am interested in decision-making and my research interests spans in Economics, Psycology, Cognitive Neuroscience, Mathematics and Machine Learning.
+Hi, I am TEXIER Yannis. I am a graduate from Paris School of Economics (ENS Ulm & Paris 1 Panthéon-Sorbonne). I am interested in decision-making and my research interests spans in Economics, Psycology, Cognitive Neuroscience, Mathematics and Machine Learning.
 My research is driven by real-life applications for businesses or daily life decisions. 
 The knowledge I derived had been used for funny sports I practiced as Thai Boxing, Free Diving and, Ultra Marathon. And, it has been used to set up strategies in content creation.
 
@@ -21,6 +21,14 @@ Regarding my work (summarized below), I’ve mainly gamified some decision-makin
 
 
 # Projects
+
+## Behavioral Strategy for Players In-Game Expenditures
+
+In this [sample of work](https://drive.google.com/file/d/1EB9RTNsNvzpCg_jEJwtXzK-2WKRrBWy6/view?usp=sharing) I used data from a survey on Animal Crossing Players. I use it as a generic data for mobile game and set up strategies to increase firms's profit.
+
+The Data Analysis was done with **Python**
+
+
 
 ## Gamifying Decision-Making Under Uncertainty
 
