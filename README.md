@@ -20,7 +20,7 @@ Regarding my work (summarized below), I’ve mainly gamified some decision-makin
 - Established new paradigms to study decision-making and designed games around it.
 
 
-# Projects
+# Stakeholder Portfolio 
 
 ## Behavioral Strategy for Players In-Game Expenditures
 
@@ -28,7 +28,7 @@ In this [sample of work](https://drive.google.com/file/d/1EB9RTNsNvzpCg_jEJwtXzK
 
 The Data Analysis was done with **Python**
 
-
+# Research Portfolio
 
 ## Gamifying Decision-Making Under Uncertainty
 
